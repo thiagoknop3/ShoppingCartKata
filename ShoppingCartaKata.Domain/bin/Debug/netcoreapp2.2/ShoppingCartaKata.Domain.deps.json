@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "32e0ca62bd9f282d8483fe813871d4aff577ed2e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ShoppingCartaKata.Domain/1.0.0": {
+        "dependencies": {
+          "SimpleInjector": "4.6.2"
+        },
+        "runtime": {
+          "ShoppingCartaKata.Domain.dll": {}
+        }
+      },
+      "SimpleInjector/4.6.2": {
+        "dependencies": {
+          "System.ComponentModel": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SimpleInjector.dll": {
+            "assemblyVersion": "4.6.2.0",
+            "fileVersion": "4.6.2.0"
+          }
+        }
+      },
+      "System.ComponentModel/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Runtime/4.1.0": {}
+    }
+  },
+  "libraries": {
+    "ShoppingCartaKata.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleInjector/4.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mfqef6GxpQokGxjFqpfDrl5rSj8Kx+yaf7XztcW1P1XsURXYgF3RXrJfDHLyx0FJXMe+hgVbeUz/cqBhSJcksg==",
+      "path": "simpleinjector/4.6.2",
+      "hashPath": "simpleinjector.4.6.2.nupkg.sha512"
+    },
+    "System.ComponentModel/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
+      "path": "system.componentmodel/4.0.1",
+      "hashPath": "system.componentmodel.4.0.1.nupkg.sha512"
+    },
+    "System.Runtime/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v6c/4Yaa9uWsq+JMhnOFewrYkgdNHNG2eMKuNqRn8P733rNXeRCGvV5FkkjBXn2dbVkPXOsO0xjsEeM1q2zC0g==",
+      "path": "system.runtime/4.1.0",
+      "hashPath": "system.runtime.4.1.0.nupkg.sha512"
+    }
+  }
+}

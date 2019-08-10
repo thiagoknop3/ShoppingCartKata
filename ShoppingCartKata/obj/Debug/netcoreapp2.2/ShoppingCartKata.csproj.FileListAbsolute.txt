@@ -1,0 +1,14 @@
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\bin\Debug\netcoreapp2.2\ShoppingCartKata.deps.json
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\bin\Debug\netcoreapp2.2\ShoppingCartKata.runtimeconfig.json
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\bin\Debug\netcoreapp2.2\ShoppingCartKata.runtimeconfig.dev.json
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\bin\Debug\netcoreapp2.2\ShoppingCartKata.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\bin\Debug\netcoreapp2.2\ShoppingCartKata.pdb
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\bin\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\bin\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.pdb
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\obj\Debug\netcoreapp2.2\ShoppingCartKata.csprojAssemblyReference.cache
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\obj\Debug\netcoreapp2.2\ShoppingCartKata.csproj.CoreCompileInputs.cache
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\obj\Debug\netcoreapp2.2\ShoppingCartKata.AssemblyInfoInputs.cache
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\obj\Debug\netcoreapp2.2\ShoppingCartKata.AssemblyInfo.cs
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\obj\Debug\netcoreapp2.2\ShoppingCartKata.csproj.CopyComplete
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\obj\Debug\netcoreapp2.2\ShoppingCartKata.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKata\obj\Debug\netcoreapp2.2\ShoppingCartKata.pdb

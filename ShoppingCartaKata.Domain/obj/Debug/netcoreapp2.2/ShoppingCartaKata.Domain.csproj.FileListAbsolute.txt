@@ -1,0 +1,8 @@
+C:\Projetos\ShoppingCartKata\ShoppingCartaKata.Domain\bin\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.deps.json
+C:\Projetos\ShoppingCartKata\ShoppingCartaKata.Domain\bin\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartaKata.Domain\bin\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.pdb
+C:\Projetos\ShoppingCartKata\ShoppingCartaKata.Domain\obj\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ShoppingCartKata\ShoppingCartaKata.Domain\obj\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ShoppingCartKata\ShoppingCartaKata.Domain\obj\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.AssemblyInfo.cs
+C:\Projetos\ShoppingCartKata\ShoppingCartaKata.Domain\obj\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartaKata.Domain\obj\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.pdb

@@ -1,0 +1,16 @@
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\ShoppingCartKata.Tests.deps.json
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\ShoppingCartKata.Tests.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\ShoppingCartKata.Tests.pdb
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\obj\Debug\netcoreapp2.2\ShoppingCartKata.Tests.csprojAssemblyReference.cache
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\obj\Debug\netcoreapp2.2\ShoppingCartKata.Tests.csproj.CoreCompileInputs.cache
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\obj\Debug\netcoreapp2.2\ShoppingCartKata.Tests.AssemblyInfoInputs.cache
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\obj\Debug\netcoreapp2.2\ShoppingCartKata.Tests.AssemblyInfo.cs
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\obj\Debug\netcoreapp2.2\ShoppingCartKata.Tests.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\obj\Debug\netcoreapp2.2\ShoppingCartKata.Tests.pdb
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.dll
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\bin\Debug\netcoreapp2.2\ShoppingCartaKata.Domain.pdb
+C:\Projetos\ShoppingCartKata\ShoppingCartKataTests\obj\Debug\netcoreapp2.2\ShoppingCartKata.Tests.csproj.CopyComplete
